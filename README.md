@@ -15,7 +15,7 @@ Since **94% of applications are processed automatically** and the system affects
 
 My final recommendation was:
 
-> **Proceed with conditions. Meridian should not approve unrestricted production deployment until fairness testing, proxy-bias review, reason code validation, human oversight triggers, appeal procedures, vendor evidence review, monitoring thresholds, and governance committee approval are completed.**
+> ***Proceed with conditions. Meridian should not approve unrestricted production deployment until fairness testing, proxy-bias review, reason code validation, human oversight triggers, appeal procedures, vendor evidence review, monitoring thresholds, and governance committee approval are completed.***
 
 <img width="1375" height="879" alt="Meridian_FRIA" src="https://github.com/user-attachments/assets/1af5b89e-adc1-4b30-8956-407fedceb31b" />
 
@@ -26,7 +26,7 @@ My final recommendation was:
 
 <img width="1707" height="986" alt="Meridian_Dashboard" src="https://github.com/user-attachments/assets/ca1670fb-f34e-424e-aa12-42b76a944c89" />
 
-> **Caption:** Governance dashboard in VerifyWise showing the use case registration, model inventory, vendor management, risk management, policy documentation, and evidence of the Automated Loan Underwriting System.
+> **Caption:** *Governance dashboard in VerifyWise showing the use case registration, model inventory, vendor management, risk management, policy documentation, and evidence of the Automated Loan Underwriting System.*
 
 
 ## Frameworks Applied
@@ -66,7 +66,7 @@ This portfolio answers one central question:
 
 My answer:
 
-> **Not for unrestricted production deployment. The system may proceed only with conditions because the current governance evidence does not fully support safe, fair, explainable, accountable, and well-monitored deployment.**
+> ***Not for unrestricted production deployment. The system may proceed only with conditions because the current governance evidence does not fully support safe, fair, explainable, accountable, and well-monitored deployment.***
 
 ## Portfolio Artifacts
 
@@ -100,7 +100,7 @@ My answer:
 <img width="764" height="741" alt="Meridian_Inventory" src="https://github.com/user-attachments/assets/d764303b-7569-4337-989f-8cac0c365353" />
 
 
-> **Caption:** This screenshot shows the CrediSure Credit Decision Engine v2.3 documented in the model inventory.
+> **Caption:** *This screenshot shows the CrediSure Credit Decision Engine v2.3 documented in the model inventory.*
 
 **Skill demonstrated:** Model inventory documentation, model limitation tracking, and third-party AI model governance.
 
@@ -111,7 +111,7 @@ My answer:
 <img width="762" height="899" alt="Meridian_Dataset" src="https://github.com/user-attachments/assets/67a34d7d-7c01-4725-b81c-036b1bdd789e" />
 
 
-> **Caption:** This screenshot shows the Small Business Loan Underwriting Dataset documented with data purpose, source, PII status, known bias concerns, and mitigation approach.
+> **Caption:** *This screenshot shows the Small Business Loan Underwriting Dataset documented with data purpose, source, PII status, known bias concerns, and mitigation approach.*
 
 **Skill demonstrated:** Dataset governance, PII awareness, data source documentation, and bias mitigation planning.
 
@@ -122,7 +122,7 @@ My answer:
 <img width="1423" height="743" alt="Meridian_RiskManagement" src="https://github.com/user-attachments/assets/b96e99bf-b936-4f91-b46f-6f74628bb4e8" />
  
 
-> **Caption:** This screenshot shows the six priority AI risks documented for the Meridian Automated Loan Underwriting System.
+> **Caption:** *This screenshot shows the six priority AI risks documented for the Meridian Automated Loan Underwriting System.*
 
 **Skill demonstrated:** AI risk identification, risk rating, mitigation planning, residual risk analysis, and approval workflow documentation.
 
@@ -144,7 +144,7 @@ My answer:
 <img width="1422" height="542" alt="Meridian_Vendor" src="https://github.com/user-attachments/assets/2fd77652-c364-46dc-bf11-89083955d70e" />
 
 
-> **Caption:** This screenshot shows the CrediSure AI vendor record documenting the third-party provider responsible for the credit decisioning model.
+> **Caption:** *This screenshot shows the CrediSure AI vendor record documenting the third-party provider responsible for the credit decisioning model.*
 
 **Skill demonstrated:** Third-party AI vendor risk management and vendor governance documentation.
 
@@ -156,7 +156,7 @@ My answer:
 <img width="1361" height="972" alt="Meriadian_ISO_1" src="https://github.com/user-attachments/assets/6a45e097-6678-4324-9742-020b20b2e2e1" />
 <img width="1361" height="972" alt="Meridian_NISTAI" src="https://github.com/user-attachments/assets/53a6b440-ba9e-42cd-b720-9ccdd0d934ce" />
 
-> **Caption:** This screenshot shows selected framework assessment progress for NIST AI RMF, ISO/IEC 42001, and EU AI Act governance requirements.
+> **Caption:** *This screenshot shows selected framework assessment progress for NIST AI RMF, ISO/IEC 42001, and EU AI Act governance requirements.*
 
 **Skill demonstrated:** Practical framework application and evidence-based AI governance assessment.
 
@@ -166,7 +166,7 @@ My answer:
 
 <img width="1375" height="879" alt="Meridian_FRIA" src="https://github.com/user-attachments/assets/5c5f65dc-82fc-49e7-a319-9f8f7732e408" />
 
-> **Caption:** This screenshot shows the EU AI Act Fundamental Rights Impact Assessment summary for the Meridian Automated Loan Underwriting System.
+> **Caption:** *This screenshot shows the EU AI Act Fundamental Rights Impact Assessment summary for the Meridian Automated Loan Underwriting System.*
 
 **Skill demonstrated:** Fundamental rights risk assessment, high-risk AI review, human oversight analysis, and conditional deployment recommendation.
 
@@ -180,7 +180,7 @@ My answer:
 <img width="911" height="788" alt="Meridian_PortfolioReport" src="https://github.com/user-attachments/assets/6fa6ef89-1763-4ba5-85de-80e27e967c4d" />
 
 
-> **Caption:** This screenshot shows the final VerifyWise portfolio report generated for the Meridian Automated Loan Underwriting System.
+> **Caption:** *This screenshot shows the final VerifyWise portfolio report generated for the Meridian Automated Loan Underwriting System.*
 
 **Skill demonstrated:** Governance evidence organization and final reporting.
 
@@ -223,5 +223,5 @@ This project reflects how I would support responsible AI deployment in a real or
 
 ## Disclaimer
 
-This is a fictional educational portfolio project created for AI governance, risk, and compliance training. It does not represent legal advice, regulatory certification, credit decisioning advice, or an actual assessment of a real financial institution.
+*This is a fictional educational portfolio project created for AI governance, risk, and compliance training. It does not represent legal advice, regulatory certification, credit decisioning advice, or an actual assessment of a real financial institution.*
 
